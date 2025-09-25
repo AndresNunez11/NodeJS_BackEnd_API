@@ -1,0 +1,32 @@
+declare const _default: {
+    Listes_server: string;
+    msg_400: string;
+    failed_login: string;
+    failed_status: string;
+    msg_500: string;
+    failed_server: string;
+    failed_server_userlog: string;
+    failed_server_usercreate: string;
+    failed_token: string;
+    Error: string;
+    msg_200: string;
+    ok_login: string;
+    Authorization: string;
+    failied_valid_token: string;
+    failied_valid_token_user: string;
+    failied_valid_token_status: string;
+    empty_field: string;
+    msg_201: string;
+    Succesfull_register: string;
+    msg_204: string;
+    empty_query: string;
+    succesfull_response: string;
+    msg_205: string;
+    succesfull_update: string;
+    msg_206: string;
+    succesfull_delete: string;
+    not_valid_id: string;
+    Role_not_access: string;
+};
+export default _default;
+//# sourceMappingURL=labels.d.ts.map

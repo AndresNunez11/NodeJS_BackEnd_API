@@ -1,0 +1,1 @@
+{"version":3,"file":"server.mode.d.ts","sourceRoot":"","sources":["../../../src/models/server.mode.ts"],"names":[],"mappings":"AAUA,cAAM,MAAM;IACR,OAAO,CAAC,GAAG,CAAa;IACxB,OAAO,CAAC,IAAI,CAAQ;IAGpB,OAAO,CAAC,UAAU,CAAQ;IAC1B,OAAO,CAAC,SAAS,CAAQ;IACzB,OAAO,CAAC,YAAY,CAAQ;;IAc5B,MAAM;IAKA,UAAU;IAIhB,MAAM;IAKN,WAAW;CAWd;AACD,eAAe,MAAM,CAAA"}

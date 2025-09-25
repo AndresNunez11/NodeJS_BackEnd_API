@@ -1,0 +1,5 @@
+PORT=
+conection_DB_MongoDB=""
+conection_DB_Cloud_MongoDB=""
+secret_key="" 
+allowed_CORS=''
